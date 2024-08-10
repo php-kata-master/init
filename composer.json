@@ -1,5 +1,5 @@
 {
-    "name": "php-kata-master/init",
+    "name": "php-kata-master/kata",
     "description": "The initial project for PHP Kata training",
     "type": "project",
     "keywords": ["tests","kata"],
