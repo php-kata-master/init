@@ -13,6 +13,7 @@
             "role": "Developer"
         }
     ],
+    "stability": "stable",
     "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "*"
