@@ -1,6 +1,6 @@
 {
     "name": "php-kata-master/kata",
-    "description": "The initial project for PHP Kata training 1",
+    "description": "The initial project for PHP Kata training",
     "type": "project",
     "keywords": ["tests","kata"],
     "homepage": "https://phpunit.org/kata-init/",
