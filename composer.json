@@ -14,6 +14,7 @@
         }
     ],
     "prefer-stable": true,
+    "stability": "stable",
     "minimum-stability": "dev",
     "require-dev": {
         "phpunit/phpunit": "*"
